@@ -1,10 +1,11 @@
-# Healthcare Institution - Financial Analysis (2024)
+# Healthcare Institution Financial Analysis (2024)
 ![Visualization 1](Dashboard_page01.png)
 
 ![Visualization 2](Dashboard_page02.png)
 
 
 ## **Table of Contents**
+- [Healthcare Institution Financial Analysis (2024)](#Healthcare-Institution-Financial-Analysis-(2024))
   - [Table of Contents](#table-of-contents)
   - [Collection](#collection)
   - [Cleaning](#cleaning)
